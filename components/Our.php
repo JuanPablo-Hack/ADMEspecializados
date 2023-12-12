@@ -10,7 +10,8 @@
               <div class="single-skill">
                 <div class="progress-circular">
                   <input type="text" class="knob" value="0" data-rel="95" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#3EC1D5" data-thickness=".20" data-readonly="true" disabled>
-                  <h3 class="progress-h4">Web Design</h3>
+                  <h3 class="progress-h4">Asesoría Jurídica
+</h3>
                 </div>
               </div>
             </div>
@@ -20,7 +21,7 @@
               <div class="single-skill">
                 <div class="progress-circular">
                   <input type="text" class="knob" value="0" data-rel="85" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#3EC1D5" data-thickness=".20" data-readonly="true" disabled>
-                  <h3 class="progress-h4">Graphics Design</h3>
+                  <h3 class="progress-h4">Supervisión Fiscal y Contable</h3>
                 </div>
               </div>
             </div>
@@ -30,7 +31,8 @@
               <div class="single-skill">
                 <div class="progress-circular">
                   <input type="text" class="knob" value="0" data-rel="75" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#3EC1D5" data-thickness=".20" data-readonly="true" disabled>
-                  <h3 class="progress-h4">Php Developer</h3>
+                  <h3 class="progress-h4">Auditoría
+</h3>
                 </div>
               </div>
             </div>
@@ -40,7 +42,7 @@
               <div class="single-skill">
                 <div class="progress-circular">
                   <input type="text" class="knob" value="0" data-rel="65" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#3EC1D5" data-thickness=".20" data-readonly="true" disabled>
-                  <h3 class="progress-h4">Java Script</h3>
+                  <h3 class="progress-h4">Diseño de Imagen Corporativa</h3>
                 </div>
               </div>
             </div>

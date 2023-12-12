@@ -12,10 +12,7 @@
   <?php include "components/Services.php" ?>
   <?php include "components/Our.php" ?>
   <?php include "components/FAQ.php" ?>
-  <?php include "components/Welcome.php" ?>
-  <?php include "components/Team.php" ?>
   <?php include "components/Reviews.php" ?> 
-  <?php include "components/Suscribe.php" ?>
   <?php include "components/Contact.php" ?>
   <?php include "static/footer.php" ?>
 </body>

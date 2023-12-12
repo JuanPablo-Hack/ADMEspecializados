@@ -14,16 +14,16 @@
               <div class="slider-content">
                 <!-- layer 1 -->
                 <div class="layer-1-1 hidden-xs wow slideInDown" data-wow-duration="2s" data-wow-delay=".2s">
-                  <h2 class="title1">The Best Business Information </h2>
+                  <h2 class="title1">La mejor empresa de gestión en administración </h2>
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                  <h1 class="title2">We're In The Business Of Helping You Start Your Business</h1>
+                  <h1 class="title2">Estamos en el negocio de ayudarle a iniciar su negocio</h1>
                 </div>
                 <!-- layer 3 -->
                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                  <a class="ready-btn right-btn page-scroll" href="#services">See Services</a>
-                  <a class="ready-btn page-scroll" href="#about">Learn More</a>
+                  <a class="ready-btn right-btn page-scroll" href="#services">Ver servivios</a>
+                  <a class="ready-btn page-scroll" href="#about">Más información</a>
                 </div>
               </div>
             </div>
@@ -39,16 +39,16 @@
               <div class="slider-content text-center">
                 <!-- layer 1 -->
                 <div class="layer-1-1 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                  <h2 class="title1">The Best Business Information </h2>
+                  <h2 class="title1">Brindar servicios especializados </h2>
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                  <h1 class="title2">We're In The Business Of Get Quality Business Service</h1>
+                  <h1 class="title2">En asesoría e implementación de estrategias fiscales y contables</h1>
                 </div>
                 <!-- layer 3 -->
                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                  <a class="ready-btn right-btn page-scroll" href="#services">See Services</a>
-                  <a class="ready-btn page-scroll" href="#about">Learn More</a>
+                  <a class="ready-btn right-btn page-scroll" href="#services">Ver servicios</a>
+                  <a class="ready-btn page-scroll" href="#about">Ver más</a>
                 </div>
               </div>
             </div>
@@ -64,16 +64,16 @@
               <div class="slider-content">
                 <!-- layer 1 -->
                 <div class="layer-1-1 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                  <h2 class="title1">The Best business Information </h2>
+                  <h2 class="title1">Contamos con experiencia </h2>
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                  <h1 class="title2">Helping Business Security  & Peace of Mind for Your Family</h1>
+                  <h1 class="title2">De atención a diversas ramas económicas</h1>
                 </div>
                 <!-- layer 3 -->
                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                  <a class="ready-btn right-btn page-scroll" href="#services">See Services</a>
-                  <a class="ready-btn page-scroll" href="#about">Learn More</a>
+                  <a class="ready-btn right-btn page-scroll" href="#services">Ver servicios</a>
+                  <a class="ready-btn page-scroll" href="#about">Ver más</a>
                 </div>
               </div>
             </div>

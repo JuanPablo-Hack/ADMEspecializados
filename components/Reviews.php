@@ -6,9 +6,10 @@
 					</a>
       </div>
       <div class="work-right-text text-center">
-        <h2>working with us</h2>
-        <h5>Web Design, Ready Home, Construction and Co-operate Outstanding Buildings.</h5>
-        <a href="#contact" class="ready-btn">Contact us</a>
+        <h2>Trabajando con nosotros</h2>
+        <h5>Somos un grupo de expertos en diversas ramas y por ello
+podemos brindarle asesoría integral.</h5>
+        <a href="#contact" class="ready-btn">Contacta con nosotros</a>
       </div>
     </div>
   </div>
