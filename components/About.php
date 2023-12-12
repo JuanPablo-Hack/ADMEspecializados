@@ -3,7 +3,7 @@
       <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12">
           <div class="section-headline text-center">
-            <h2>About eBusiness</h2>
+            <h2>Sobre ADMEspecializados</h2>
           </div>
         </div>
       </div>
@@ -23,27 +23,27 @@
           <div class="well-middle">
             <div class="single-well">
               <a href="#">
-                <h4 class="sec-head">project Maintenance</h4>
+                <h4 class="sec-head">Conoce más sobre este gran proyecto</h4>
               </a>
               <p>
-                Redug Lagre dolor sit amet, consectetur adipisicing elit. Itaque quas officiis iure aspernatur sit adipisci quaerat unde at nequeRedug Lagre dolor sit amet, consectetur adipisicing elit. Itaque quas officiis iure
+              Somos una empresa que se dedica a brindar servicios
+              especializados en asesoría e implementación de estrategias
+              fiscales, contables, así como servicios dirigidos al factor humano
+              conformada por un grupo de profesionales que brindan soluciones
+              efectivas y dinámicas.
+
               </p>
               <ul>
                 <li>
-                  <i class="fa fa-check"></i> Interior design Package
+                  <i class="fa fa-check"></i> Creamos un “traje a la medida” de nuestros clientes
                 </li>
                 <li>
-                  <i class="fa fa-check"></i> Building House
+                  <i class="fa fa-check"></i>  Satisfaciendo sus necesidades de manera integral
                 </li>
                 <li>
-                  <i class="fa fa-check"></i> Reparing of Residentail Roof
+                  <i class="fa fa-check"></i> Conciliamos intereses enfocados en la premisa GANARXGANAR
                 </li>
-                <li>
-                  <i class="fa fa-check"></i> Renovaion of Commercial Office
-                </li>
-                <li>
-                  <i class="fa fa-check"></i> Make Quality Products
-                </li>
+              
               </ul>
             </div>
           </div>

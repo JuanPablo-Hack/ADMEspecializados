@@ -6,10 +6,14 @@
             <div class="footer-content">
               <div class="footer-head">
                 <div class="footer-logo">
-                  <h2><span>e</span>Business</h2>
+                  <h2><span>ADM</span>Especializados</h2>
                 </div>
 
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.</p>
+                <p> Somos una empresa que se dedica a brindar servicios
+especializados en asesoría e implementación de estrategias
+fiscales, contables, así como servicios dirigidos al factor humano
+conformada por un grupo de profesionales que brindan soluciones
+efectivas y dinámicas.</p>
                 <div class="footer-icons">
                   <ul>
                     <li>
@@ -35,28 +39,13 @@
               <div class="footer-head">
                 <h4>information</h4>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+                Contamos con experiencia de atención a diversas ramas
+económicas.
                 </p>
                 <div class="footer-contacts">
                   <p><span>Tel:</span> +123 456 789</p>
                   <p><span>Email:</span> contact@example.com</p>
                   <p><span>Working Hours:</span> 9am-5pm</p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- end single footer -->
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <div class="footer-content">
-              <div class="footer-head">
-                <h4>Instagram</h4>
-                <div class="flicker-img">
-                  <a href="#"><img src="assets/img/portfolio/1.jpg" alt=""></a>
-                  <a href="#"><img src="assets/img/portfolio/2.jpg" alt=""></a>
-                  <a href="#"><img src="assets/img/portfolio/3.jpg" alt=""></a>
-                  <a href="#"><img src="assets/img/portfolio/4.jpg" alt=""></a>
-                  <a href="#"><img src="assets/img/portfolio/5.jpg" alt=""></a>
-                  <a href="#"><img src="assets/img/portfolio/6.jpg" alt=""></a>
                 </div>
               </div>
             </div>
