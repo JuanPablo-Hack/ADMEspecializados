@@ -37,7 +37,7 @@ efectivas y dinámicas.</p>
           <div class="col-md-4 col-sm-4 col-xs-12">
             <div class="footer-content">
               <div class="footer-head">
-                <h4>information</h4>
+                <h4>Información</h4>
                 <p>
                 Contamos con experiencia de atención a diversas ramas
 económicas.
