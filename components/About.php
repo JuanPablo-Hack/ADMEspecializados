@@ -3,7 +3,11 @@
       <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12">
           <div class="section-headline text-center">
+<<<<<<< HEAD
             <h2>Sobre ADMEspecializada</h2>
+=======
+            <h2>Sobre ADMEspecializados</h2>
+>>>>>>> 62c19f261a31a59d7f0abe9acb0d5bde68aeee0f
           </div>
         </div>
       </div>
