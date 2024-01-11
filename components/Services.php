@@ -35,7 +35,7 @@
 										</a>
                   <h4>Impuestos</h4>
                   <p>
-                  Servicio esencial para cualquier empresa o emprendedor  que desee mantener  en orden y cumplir con las obligaciones tributarias. De forma correcta y eficazmente.                  </p>
+                  Servicio esencial para cualquier empresa o emprendedor  que desee mantener  en orden y cumplir con las obligaciones tributarias.</p>
                 </div>
               </div>
               <!-- end about-details -->
@@ -67,8 +67,7 @@
 										</a>
                   <h4>Supervisión Fiscal y Contable </h4>
                   <p>
-                  La supervicion debe ser orientada a dar claridad, certeza en la informacion generada.                  </p>
-                </div>
+                  La supervicion debe ser orientada a dar claridad, certeza en la informacion generada                </div>
               </div>
               <!-- end about-details -->
             </div>

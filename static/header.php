@@ -12,9 +12,7 @@
 										<span class="icon-bar"></span>
 									</button>
                 <a class="navbar-brand page-scroll sticky-logo" href="index.html">
-                  <h1><span>ADM</span>Especializados</h1>
-                  <!-- Uncomment below if you prefer to use an image logo -->
-                  <!-- <img src="img/logo.png" alt="" title=""> -->
+                  <h1><span>ADM</span>Especializada</h1>
 								</a>
               </div>
               <div class="collapse navbar-collapse main-menu bs-example-navbar-collapse-1" id="navbar-example">
@@ -27,9 +25,6 @@
                   </li>
                   <li>
                     <a class="page-scroll" href="#services">Servicios</a>
-                  </li>
-                  <li>
-                    <a class="page-scroll" href="#team">Equipo</a>
                   </li>
                   <li>
                     <a class="page-scroll" href="#contact">Contacto</a>

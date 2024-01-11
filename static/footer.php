@@ -6,7 +6,7 @@
             <div class="footer-content">
               <div class="footer-head">
                 <div class="footer-logo">
-                  <h2><span>ADM</span>Especializados</h2>
+                  <h2><span>ADM</span>Especializada</h2>
                 </div>
 
                 <p> Somos una empresa que se dedica a brindar servicios
