@@ -36,6 +36,7 @@
                   <h4>Impuestos</h4>
                   <p>
                   Servicio esencial para cualquier empresa o emprendedor  que desee mantener  en orden y cumplir con las obligaciones tributarias.</p>
+                  Servicio esencial para cualquier empresa o emprendedor  que desee mantener  en orden y cumplir con las obligaciones tributarias. De forma correcta y eficazmente.                  </p>
                 </div>
               </div>
               <!-- end about-details -->
