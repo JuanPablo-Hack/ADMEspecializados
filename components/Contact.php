@@ -16,8 +16,8 @@
               <div class="single-icon">
                 <i class="fa fa-mobile"></i>
                 <p>
-                  Llama: +1 5589 55488 55<br>
-                  <span>Monday-Friday (9am-5pm)</span>
+                  Llama: <a href="tel:+ 999-955-5501">999-955-5501</a><br>
+                  <span>Lunes-Viernes (9am-7pm)</span>
                 </p>
               </div>
             </div>
@@ -28,7 +28,7 @@
               <div class="single-icon">
                 <i class="fa fa-envelope-o"></i>
                 <p>
-                  Email: info@example.com<br>
+                  Email: <a href="mailto:info@admespecializada.com">info@admespecializada.com</a> <br>
                   <span>Web: admespecializada.com</span>
                 </p>
               </div>
@@ -40,8 +40,8 @@
               <div class="single-icon">
                 <i class="fa fa-map-marker"></i>
                 <p>
-                  Location: A108 Adam Street<br>
-                  <span>NY 535022, USA</span>
+                  Location: Prolongacion de montejo y calle 42 num 308 Interior 5a<br>
+                  <span>Mérida, México</span>
                 </p>
               </div>
             </div>
@@ -52,8 +52,7 @@
           <!-- Start Google Map -->
           <div class="col-md-6 col-sm-6 col-xs-12">
             <!-- Start Map -->
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22864.11283411948!2d-73.96468908098944!3d40.630720240038435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbg!4v1540447494452" width="100%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>
-            <!-- End Map -->
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.361419919104!2d-89.62260032814974!3d21.018219945350612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f5676a3077f2c31%3A0x498e914568e886e0!2sProl.%20Paseo%20Montejo%20%26%20C.%2042%2C%20Campestre%2C%2097120%20M%C3%A9rida%2C%20Yuc.!5e0!3m2!1ses-419!2smx!4v1705943807856!5m2!1ses-419!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>            <!-- End Map -->
           </div>
           <!-- End Google Map -->
 

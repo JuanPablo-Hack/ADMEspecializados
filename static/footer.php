@@ -43,9 +43,9 @@ efectivas y dinámicas.</p>
 económicas.
                 </p>
                 <div class="footer-contacts">
-                  <p><span>Tel:</span> +123 456 789</p>
-                  <p><span>Email:</span> contact@example.com</p>
-                  <p><span>Working Hours:</span> 9am-5pm</p>
+                  <p><span>Tel:</span><a href="tel:+ 9999555501"> 999-955-5501</a></p>
+                  <p><span>Email:</span> <a href="mailto:info@admespecializada.com">info@admespecializada.com</a></p>
+                  <p><span>Horario:</span> 9am-7pm</p>
                 </div>
               </div>
             </div>
@@ -62,9 +62,9 @@ económicas.
                 &copy; Copyright <strong>ADMEspecializada</strong>. Todos los derechos reservados
               </p>
             </div>
-            <div class="credits">
+            <!-- <div class="credits">
               Diseñado por <a href="https://jupitersoft.tech/">JupiterSoftTech</a>
-            </div>
+            </div> -->
           </div>
         </div>
       </div>
