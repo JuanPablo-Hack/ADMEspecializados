@@ -44,7 +44,7 @@ económicas.
                 </p>
                 <div class="footer-contacts">
                   <p><span>Tel:</span><a href="tel:+ 9999555501"> 999-955-5501</a></p>
-                  <p><span>Email:</span> <a href="mailto:info@admespecializada.com">info@admespecializada.com</a></p>
+                  <p><span>Email:</span> <a href="mailto:rramirez@admespecializada.com">rramirez@admespecializada.com</a></p>
                   <p><span>Horario:</span> 9am-7pm</p>
                 </div>
               </div>

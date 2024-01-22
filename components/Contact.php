@@ -28,7 +28,7 @@
               <div class="single-icon">
                 <i class="fa fa-envelope-o"></i>
                 <p>
-                  Email: <a href="mailto:info@admespecializada.com">info@admespecializada.com</a> <br>
+                  Email: <a href="mailto:rramirez@admespecializada.com">rramirez@admespecializada.com</a> <br>
                   <span>Web: admespecializada.com</span>
                 </p>
               </div>
