@@ -16,7 +16,7 @@
               <div class="single-icon">
                 <i class="fa fa-mobile"></i>
                 <p>
-                  Llama: <a href="tel:+ 999-955-5501">999-955-5501</a><br>
+                  Llama: <a href="tel:+ 999-955-5501">99a-955-5501</a><br>
                   <span>Lunes-Viernes (9am-7pm)</span>
                 </p>
               </div>
