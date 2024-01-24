@@ -29,6 +29,12 @@
                   <li>
                     <a class="page-scroll" href="#contact">Contacto</a>
                   </li>
+                  <li>
+                    <a class="page-scroll" download href="assets/docs/Aviso de privacidad ADM.pdf">Aviso de privacidad</a>
+                  </li>
+                  <li>
+                    <a class="page-scroll" download href="assets/docs/Términos y condiciones ADM.pdf">Términos y condiciones</a>
+                  </li>
                 </ul>
               </div>
             </nav>
